@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/projects/mlflow-test/mlruns/0/da0c4805a43143ae8f96f252ecb913b6/artifacts
+end_time: 1702459357536
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da0c4805a43143ae8f96f252ecb913b6
+run_name: clean-donkey-888
+run_uuid: da0c4805a43143ae8f96f252ecb913b6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702459351405
+status: 3
+tags: []
+user_id: SHIVAKUMAR YADAV

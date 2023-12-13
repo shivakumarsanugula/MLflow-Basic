@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/projects/mlflow-test/mlruns/0/d6e494e2af7041e68e18a68bae1f3702/artifacts
+end_time: 1702459380469
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d6e494e2af7041e68e18a68bae1f3702
+run_name: popular-crab-483
+run_uuid: d6e494e2af7041e68e18a68bae1f3702
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1702459374286
+status: 3
+tags: []
+user_id: SHIVAKUMAR YADAV
